@@ -1,0 +1,4 @@
+MongoDB Driver: helps to interact with MongoDB
+Mongoose: ODM that provides more features to the native driver
+
+Model (like a class) => blueprint to create documents and to perform CRUD operations
